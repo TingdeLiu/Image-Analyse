@@ -1,12 +1,11 @@
-# Image-Analyse
-This is a course I took at Leibniz University and the code is an exercise for my accompanying course.
-
-readme_content = """
 <p align="center">
 <h1 align="center"><strong>🧠 Image Analysis I: Lab Series (ST 2023)</strong></h1>
   <p align="center">
-    <a href='mailto:kanyamahanga@ipi.uni-hannover.de' target='_blank'>Hubert Kanyamahanga</a><br>
-    <a href='tingde.liu@gmail.com' target='_blank'>Tingde Liu</a><br>
+    <a href='mailto:kanyamahanga@ipi.uni-hannover.de' target='_blank'>Hubert Kanyamahanga</a>&emsp;
+    <a href='mailto:tingde.liu@gmail.com' target='_blank'>Tingde Liu</a>&emsp;
+    Chengliang Li&emsp;
+    Yahui Zhuang
+    <br>
     Institute of Photogrammetry and GeoInformation (IPI), Leibniz Universität Hannover
   </p>
 </p>
@@ -15,7 +14,7 @@ readme_content = """
 
 ## 🧪 Overview
 
-This repository contains practical lab exercises from the **Image Analysis I** course at IPI Hannover, focusing on classical and modern computer vision and deep learning techniques using Python, Scikit-learn, and PyTorch.
+This is a course I took at Leibniz University and the code is an exercise for my accompanying course. This repository contains practical lab exercises from the **Image Analysis I** course at IPI Hannover, focusing on classical and modern computer vision and deep learning techniques using Python, Scikit-learn, and PyTorch.
 
 ---
 
