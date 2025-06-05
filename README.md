@@ -6,6 +6,7 @@ readme_content = """
 <h1 align="center"><strong>🧠 Image Analysis I: Lab Series (ST 2023)</strong></h1>
   <p align="center">
     <a href='mailto:kanyamahanga@ipi.uni-hannover.de' target='_blank'>Hubert Kanyamahanga</a><br>
+    <a href='tingde.liu@gmail.com' target='_blank'>Tingde Liu</a><br>
     Institute of Photogrammetry and GeoInformation (IPI), Leibniz Universität Hannover
   </p>
 </p>
